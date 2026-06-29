@@ -1,10 +1,7 @@
 --[[
 404: Not Found
 
-The requested URL was not found on this server.
-Resource: ://githubusercontent.com
-Status: Access Denied / File Removed
-=================================================================================
+               File Removed
 ]]
 
 
